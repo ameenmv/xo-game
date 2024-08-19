@@ -1,0 +1,11 @@
+{
+    "string" : "ameen",
+    "number" : 19,
+    "object" : {
+        "egypt" : "cairo",
+        "ksa" : "ryiad"
+    },
+    "array" : ["html" , "css" , "js"],
+    "bolean" : true,
+    "null" : null
+}
